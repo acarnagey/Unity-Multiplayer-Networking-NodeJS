@@ -1,0 +1,17 @@
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp.csproj
+Builds
+Library
+obj
+ProjectSettings
+Simple Multiplayer NodeJS.sln
+Simple Multiplayer NodeJS.userprefs
+Temp
+unix_Data
+unix.x86
+unix.x86_64
+Assets/Materials
+Assets/Prefabs
+Assets/Scenes
+Assets/SocketIO
+*.meta
